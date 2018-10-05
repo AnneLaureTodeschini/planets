@@ -3,3 +3,5 @@ ca y est on a bu un café. Faudra penser à apporter une cafetière nespresso su
 en revanche je ne suis pas sûre que Mummie aime le café. 
 ca ne marche pas le diff.
 si mais il ne faut pas faire commit.
+
+oui mais comment est-ce qu'on réouvre une ancienne version ?
